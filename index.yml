@@ -4,4 +4,4 @@
     description: Löscht automatisch Szenen, die 2 Mal oder öfter abgespielt wurden.
     version: "1.0"
     url: https://docs.stashapp.cc/
-  path: AutoDeletePlayedScenes
+  path: AutoDeletePlayedScenes.zip
